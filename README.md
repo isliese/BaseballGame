@@ -2,15 +2,15 @@
 #### 2023 Summer Project of CODE - IT Association @ Sookmyung Women's University
 
 ##### python의 pygame 라이브러리로 숫자 야구게임 만들기 
-<img src="https://github.com/user-attachments/assets/20d577ba-67e6-4ae0-b6f5-e19c52cdae4e" weight="200"/>
+<img src="https://github.com/user-attachments/assets/20d577ba-67e6-4ae0-b6f5-e19c52cdae4e" weight="20"/>
 
 
 ##### 게임 실행 화면
-<img src="https://github.com/user-attachments/assets/52e73937-fd7b-46ad-8bcc-7fe8717f77ca  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/52e73937-fd7b-46ad-8bcc-7fe8717f77ca" weight="20"/>
 
 
 ## 언어 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 ## IDE

@@ -16,9 +16,11 @@
 ##### IDE
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
 
+##### 협업 툴
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ##### 팀원 
 
 <h5>숙명여자대학교 인공지능공학부 23학번 김찬란 <br>
-숙명여자대학교 인공지능공학부 23학번 이연진 <br>
-숙명여자대학교 인공지능공학부 23학번 한은정 <br> </h5>
+숙명여자대학교 인공지능공학부 23학번 이현진 <br> </h5>

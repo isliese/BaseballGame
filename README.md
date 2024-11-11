@@ -4,6 +4,7 @@
 ##### python의 pygame 라이브러리로 숫자 야구게임 만들기 
 ![image](https://github.com/user-attachments/assets/e6688396-138e-47d4-960b-7bf622cba9d5)
 
+
 ##### 게임 실행 화면
 ![image](https://github.com/user-attachments/assets/52e73937-fd7b-46ad-8bcc-7fe8717f77ca)
 
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
 
 ## 협업 툴
-<img src="https://img.shields.io/badge/Kakao Talk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/> <
+<img src="https://img.shields.io/badge/Kakao Talk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/> 
 
 
 ## 팀원 
